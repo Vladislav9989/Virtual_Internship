@@ -1,4 +1,5 @@
-(https://github.com/Vladislav9989/Virtual_Internship/assets/108686317/862cd43a-947e-459f-95c5-7d5f50b380c3)
+
+![Перевал](https://github.com/Vladislav9989/Virtual_Internship/assets/108686317/bf8dbe48-9f2e-49e4-910c-b8d6ea61b024)
 
 # Виртуальная стажировка
 ## Pereval Rest API
